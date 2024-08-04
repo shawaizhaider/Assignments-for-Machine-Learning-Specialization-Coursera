@@ -1,0 +1,2 @@
+## Solved Assignments for Machine Learning Specialization on Coursera. 
+This repository contains the solved Assignments for Machine Learning Specialization on Coursera. Machine Learning Specialization is a set of three courses on Machine Learning taught by Andrew NG.
